@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head><title>WEB DESIGNING</title>
+
+
+<body><b>Welcome to Webdesigning Course!</b>
+<p>This course helps you to shape your career in UX Design as it teaches you to apply the principles of user centered design. 
+Course also cover the tools required to create effective User Experience designs using Axure RP and Adobe Experience Design.
+
+ 
+This training is best suited for Graphic Designer, Art/media Managers, Web Designers and Developers, Virtual Reality UI Designers, 
+Interaction Designer, Graphic Visualiser, and any one looking forward to build a career in User Experience Design.
+</p></body>
+</head>
+</html>
